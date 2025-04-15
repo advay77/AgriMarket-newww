@@ -27,7 +27,7 @@ const navigationItems = [
   {
     title: 'Connect',
     icon: <Users className="h-5 w-5" />,
-    href: 'https://fastidious-meerkat-0a2e22.netlify.app/'
+    href: '/pricing'
   }
 ];
 
